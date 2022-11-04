@@ -1,5 +1,6 @@
 # program to find the average of six numbers
 ```
+Outut:
 Enter the first number:10
 Enter the second number:20
 Enter the third number:30
